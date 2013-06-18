@@ -1,0 +1,45 @@
+<!--code below excerpted from the Agile Development with Rails book with kind permission of the publisher-->
+
+<div class="shop_form">
+
+<%= form_for @user do |f| %>
+  <% if @user.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@user.errors.count, "error") %>
+        prevented a user from being saved:</h2>
+      <ul>
+      <% @user.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <fieldset class="fieldset">
+  <!--legend>Enter User Details</legend-->
+
+  <div>
+    <span class="textBoxWidthName"><%= f.label :name, 'Email' %>:</span>
+    <%= f.text_field :name, size: 40 %>
+  </div>
+
+  <div>
+    <span class="textBoxWidthPassword"><%= f.label :password, 'Password' %>:</span>
+    <%= f.password_field :password, size: 40 %>
+  </div>
+
+  <div>
+    <span class="textBoxWidthPasswordConfirmation"><%= f.label :password_confirmation, 'Confirm' %>:</span>
+    <%= f.password_field :password_confirmation, size: 40 %>
+  </div>
+  <br />
+
+
+  <div>
+    <%= f.submit %>
+  </div>
+
+  </fieldset>
+<% end %>
+
+</div>

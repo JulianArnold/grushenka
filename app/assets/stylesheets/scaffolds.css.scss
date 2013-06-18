@@ -1,0 +1,204 @@
+body {
+	background-color: #990100;
+	color: #dddddd;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	width:960px;
+	margin: 0 auto;
+	padding: 0 1%;
+}
+#head960 {
+    border: 1px;
+    color: #333333;
+}
+
+nav {
+	width:960px;
+    font-family: Tahoma, Helvetica, Arial, sans-serif;
+    font-weight:bold;
+    padding: 0.5px;
+    margin: 0 auto;
+    text-decoration-color: #FFFFFF;
+}
+
+nav a {
+	display: inline-block;
+    background-color: #dddddd;
+    color: #FFFFFF;
+    padding: 0.5% 1.3%;
+    width: 7.02%;
+    height:21px;
+    text-decoration: none;
+    text-align: center;
+    border-radius:5px;
+    -moz-border-radius:5px;
+}
+
+nav a:hover {
+    background-color: #0000FF;
+    color: white;
+}
+
+nav a:active {
+    background-color: #66CCFF;
+}
+
+.videoFrame {
+  background-color: #333333;
+  text-align: center;
+  padding: 1%;
+  margin: auto;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.twitter-timeline {
+  display:inline-block;
+  margin:auto;
+}
+
+#partial-cart,  {
+  margin: auto;
+  width: 30%;
+  float: right;
+}
+
+#soundcloud-api {
+  margin:auto;
+  width: 100%;
+}
+
+.fb-comments {
+  height:470px;
+  overflow: auto;
+  overflow-x: hidden;
+  margin-left:48px;
+}
+
+#facebookFeed {
+  border: 1px;
+  color: #333333;
+}
+
+#welcome-heading {
+  font-family: "Courier New";
+  font-size: 3.2em;
+}
+
+#shop-h1,h1, h2, h3, h4, h5, h6 {
+  font-family: "Courier New";
+}
+
+.gigsHeader {
+  text-align: left;
+  background-color: #333333;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+#gigsFooter {
+  text-align: left;
+}
+
+.textBoxWidthName {
+  margin-right:44px;
+}
+
+.textBoxWidthPassword {
+  margin-right:15px;
+}
+
+.textBoxWidthPasswordConfirmation {
+  margin-right:28px;
+}
+
+.fieldset {
+	width:50%;
+    border: 0;
+}
+
+.studioPhotos {
+  background-color: #333333;
+  padding-top: 22px;
+  padding-right: 5px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  border: 0px;
+  margin: auto;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+/*insert new CSS above*/
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+pre {
+  background-color: #dddddd;
+  padding: 10px;
+  font-size: 11px;
+}
+
+a {
+  color: #333333;
+  &:visited {
+    color: #333333;
+  }
+  &:hover {
+    color: #FFFFFF;
+    background-color: #990100;
+  }
+}
+
+#email-link-colour {
+  color: #0000FF;
+  &:visited {
+    color: #66CCFF;
+  &:hover {
+    color: #FFA500;
+  }
+ }
+}
+
+div {
+  &.field, &.actions {
+    margin-bottom: 10px;
+  }
+}
+
+#notice {
+  color: #0000FF;
+}
+
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+  h2 {
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 5px 5px 15px;
+    font-size: 12px;
+    margin: -7px;
+    margin-bottom: 0px;
+    background-color: #990100;
+    color: #dddddd;
+  }
+  ul li {
+    font-size: 12px;
+    list-style: square;
+  }
+}

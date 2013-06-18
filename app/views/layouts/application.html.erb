@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Grushenka</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+
+
+</head>
+<body class='<%= controller.controller_name %>'>
+
+<div>
+  <%= image_tag "head960.png" %>
+</div>
+
+<hr />
+
+<nav>
+	<%= link_to "Home", pages_home_path %>
+    <%= link_to "Music", pages_music_path %>
+    <%= link_to "Video", pages_video_path %>
+	<%= link_to "Photos", pages_photos_path %>
+    <%= link_to "About", pages_about_path %>
+	<%= link_to "Gigs", pages_gigs_path %>
+	<%= link_to "Contact", pages_contact_path %>
+    <%= link_to "Join", new_user_path %>
+    <%= link_to "Login", login_path %>
+    <%= link_to "Shop", store_index_path %>
+</nav>
+
+<hr />
+<div id="partial-cart">
+  <%= hidden_div_if(current_cart.line_items.empty?, id: 'cart') do %>
+    <%= render current_cart %>
+  <% end %>
+
+</div>
+<br />
+<%= yield %>
+
+<nav><br />
+<% if session[:user_id]%>
+    <%= link_to "Products", products_path%>
+    <%= link_to "Orders", orders_path %>
+    <%= link_to 'Logout', logout_path, method: :delete %>
+<% end %>
+</nav>
+<footer>
+<hr />
+<p>Copyright &copy; 2013 Jackson Entertainment.  All rights reserved.</p>
+<hr />
+</footer>
+</body>
+</html>

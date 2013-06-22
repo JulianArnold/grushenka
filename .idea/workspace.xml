@@ -400,7 +400,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="11" selection-start="41" selection-end="41" vertical-scroll-proportion="0.028286189">
+            <state line="3" column="24" selection-start="79" selection-end="79" vertical-scroll-proportion="0.08485857">
               <folding />
             </state>
           </provider>
@@ -820,13 +820,13 @@
       <method />
     </configuration>
     <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="Rake.db:migrate" />
-      <item index="1" class="java.lang.String" itemvalue="IRB console.Rails console: grushenka" />
-      <item index="2" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="3" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="4" class="java.lang.String" itemvalue="Rails.Production: grushenka" />
-      <item index="5" class="java.lang.String" itemvalue="Rails.Development: grushenka" />
-      <item index="6" class="java.lang.String" itemvalue="Ruby.say_goodnight" />
+      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: grushenka" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: grushenka" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.say_goodnight" />
+      <item index="5" class="java.lang.String" itemvalue="Rake.db:migrate" />
+      <item index="6" class="java.lang.String" itemvalue="IRB console.Rails console: grushenka" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -1061,7 +1061,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="11" selection-start="41" selection-end="41" vertical-scroll-proportion="0.028286189">
+        <state line="3" column="24" selection-start="79" selection-end="79" vertical-scroll-proportion="0.08485857">
           <folding />
         </state>
       </provider>

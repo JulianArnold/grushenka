@@ -7,6 +7,8 @@ ruby '1.9.3'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
+gem 'heroku'
+
 group :development do
 gem 'sqlite3'
 end

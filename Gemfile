@@ -10,11 +10,11 @@ ruby '1.9.3'
 gem 'heroku'
 
 group :development do
-gem 'sqlite3'
+  gem 'sqlite3'
 end
 
 group :production do
-gem 'pg'
+  gem 'pg'
 end
 
 group :production do

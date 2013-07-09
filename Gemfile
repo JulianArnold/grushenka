@@ -7,7 +7,7 @@ gem 'rails', '3.2.13'
 
 gem 'heroku'
 
-group :development do
+group :development, :test do
   gem 'sqlite3'
 end
 

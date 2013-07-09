@@ -26,4 +26,4 @@ Product.create(title: 'T-Shirt with photo',
                    %{
 			T-shirt available in all sizes, M & F.
 		},
-               image_url: 'T-shirt_sample.jpg', price: 11.99)
+        image_url: 'T-shirt_sample.jpg', price: 11.99)

@@ -17,6 +17,8 @@ group :production do
   gem 'pg'
 end
 
+gem 'taps'
+
 gem 'authlogic'
 
 gem "ImageResize", "~> 0.0.5"

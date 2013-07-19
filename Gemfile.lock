@@ -44,7 +44,7 @@ GEM
       execjs
     coffee-script-source (1.6.3)
     erubis (2.7.0)
-    excon (0.25.1)
+    excon (0.25.3)
     execjs (1.4.0)
       multi_json (~> 1.0)
     heroku (2.39.4)

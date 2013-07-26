@@ -17,7 +17,7 @@
 .sc-player .sc-artwork-list{
   width: 50%;
   height: 100%;
-  background-color: #transparent;
+  background-color: transparent;
   list-style-type: none;
   position: relative;
 }
@@ -186,7 +186,7 @@
 }
 .sc-volume-slider .sc-volume-status{
   position: absolute;
-  width: 0%;
+  width: 0;
   height: 10px;
   top: 1px;
   left: 1px;

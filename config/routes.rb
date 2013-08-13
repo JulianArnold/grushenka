@@ -12,17 +12,15 @@ Grushenka::Application.routes.draw do
     delete 'logout' => :destroy
   end
 
-
   resources :users
-
 
   resources :orders
 
-
   resources :line_items
 
-
   resources :carts
+
+  resources :audios
 
 
   get "pages/home"
@@ -55,9 +53,12 @@ Grushenka::Application.routes.draw do
 
   get "new/user"
 
-  #get "pages#home"
+  get "public/audios"
 
-  #match "home" => "home#index", :as => :home
+
+  # get "pages#home"
+
+  # match "audios" => "pages#music", :as => :audios
 
   resources :products do
     get :who_bought, on: :member

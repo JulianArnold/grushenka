@@ -93,7 +93,7 @@ li {
 /*#START:form*/
 .shop_form {
    fieldset {
-    background: #efe;
+    background: #990100;
     legend {
         color: #dfd;
         background: #000000;
@@ -112,7 +112,7 @@ li {
     }
 
     select, textarea, input {
-        margin-left: 0.5em;
+        margin-left: 0.4em;
 
     }
 

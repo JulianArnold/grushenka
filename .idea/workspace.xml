@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="00cf2077-50f6-41a8-9d0c-9d247eef924c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/grushenka.iml" afterPath="$PROJECT_DIR$/.idea/grushenka.iml" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\javascripts\sc-player.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\javascripts\soundcloud.player.api.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\colors-orange.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\pause-blue-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\pause-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\pause-green-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\pause-green.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\pause-orange-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\pause-orange.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\play-blue-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\play-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\play-green-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\play-green.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\play-orange-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\img\play-orange.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\standards.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\sc-player-standard\structure-horizontal.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" afterPath="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.css" afterPath="$PROJECT_DIR$/public/assets/application.css" />
     </list>
     <ignored path="grushenka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,26 +40,7 @@
     <disable_hints />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="25" selection-start="376" selection-end="376" vertical-scroll-proportion="0.3371901">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.923077">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -63,18 +63,18 @@
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/pages/music.html.erb" />
-        <option value="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/public/assets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
+        <option value="$PROJECT_DIR$/public/assets/application.css" />
+        <option value="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-808" />
+    <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="816" />
+    <option name="height" value="786" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -136,82 +136,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,14 +245,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-808" width="1296" height="816" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4536741" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.50159746" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26337114" sideWeight="0.9600639" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24311183" sideWeight="0.54632586" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.49520767" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -336,7 +261,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4536741" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -396,11 +320,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/sc-player-standard/colors-orange.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="27" selection-start="1705" selection-end="1705" vertical-scroll-proportion="0.026941363" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/cart.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -446,36 +365,44 @@
         <state line="69" column="0" selection-start="1885" selection-end="1885" vertical-scroll-proportion="1.9965217" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="824" selection-start="805" selection-end="824" vertical-scroll-proportion="0.5" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="24" selection-start="2067" selection-end="2067" vertical-scroll-proportion="-15.68" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1099" selection-start="1099" selection-end="1099" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="17" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.16145833" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.923077">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="25" selection-start="376" selection-end="376" vertical-scroll-proportion="0.3371901">
+        <state line="20" column="25" selection-start="376" selection-end="376" vertical-scroll-proportion="0.029565217">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="22" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8672" selection-start="8672" selection-end="8672" vertical-scroll-proportion="0.53741497">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="36" selection-start="10474" selection-end="10474" vertical-scroll-proportion="0.82653064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="24" selection-start="2067" selection-end="2067" vertical-scroll-proportion="0.46256238">
           <folding />
         </state>
       </provider>

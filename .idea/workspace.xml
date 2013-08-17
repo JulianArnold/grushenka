@@ -2,32 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="00cf2077-50f6-41a8-9d0c-9d247eef924c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-blue-aee5f4f875b97c53c9a3a39bd8354377.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-blue-hover-bd2ade340f494fb85df24fc437461939.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-blue-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-green-18fa4fc1745c59c4033b372e60eff00d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-green-hover-ae3cf73346f0937ccc25d56e1829113c.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-green-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-green.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-orange-6bc86d646f3cdcad2b8ecc44e3093253.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-orange-hover-9e59e646a2b67055929e5266e8986b3f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-orange-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\pause-orange.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-blue-92a6f32e4d33f16e6327540f6bbfd656.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-blue-hover-15e93caaf1cb9f7a2ebcef2ba248ecb1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-blue-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-green-899900fdfa1e318da3e580b991444863.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-green-hover-816022ae195fccfa0a15eb37f077039d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-green-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-green.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-orange-a49835bda82ce3796711601eb76bec46.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-orange-hover-3d5c6f6c63284cd75b7560045ce7364d.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-orange-hover.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\public\assets\sc-player-standard\img\play-orange.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\images\glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\images\glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\javascripts\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\bootstrap.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/grushenka.iml" afterPath="$PROJECT_DIR$/.idea/grushenka.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="grushenka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="7" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.14416476">
+            <state line="58" column="23" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.83028287">
               <folding />
             </state>
           </provider>
@@ -91,6 +72,7 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
         <option value="$PROJECT_DIR$/public/assets/application.css" />
         <option value="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -162,128 +144,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grushenka" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,14 +252,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26198083" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.58785945" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.50159746" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25445706" sideWeight="0.73801917" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25445706" sideWeight="0.41214058" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.49520767" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -466,11 +326,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doc/app/rdoc.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="14" selection-start="217" selection-end="217" vertical-scroll-proportion="0.21451104" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/arrow-89d7ab165aca04c89663debc91a83522.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -544,6 +399,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="7" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.14416476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="17" selection-start="1549" selection-end="1565" vertical-scroll-proportion="0.0">
@@ -551,9 +413,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="7" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.14416476">
+        <state line="58" column="23" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.83028287">
           <folding />
         </state>
       </provider>

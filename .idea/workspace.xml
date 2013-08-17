@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="00cf2077-50f6-41a8-9d0c-9d247eef924c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\images\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\images\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\javascripts\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\PROJECT2\grushenka\app\assets\stylesheets\bootstrap.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/grushenka.iml" afterPath="$PROJECT_DIR$/.idea/grushenka.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" afterPath="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application.css" afterPath="$PROJECT_DIR$/public/assets/application.css" />
     </list>
     <ignored path="grushenka.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,16 +26,52 @@
       <file leaf-file-name="scaffolds.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="17" selection-start="1549" selection-end="1565" vertical-scroll-proportion="0.0">
+            <state line="111" column="1" selection-start="1639" selection-end="1639" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="application-358c2d8707bf6fc73c1178c6573d969a.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="23" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.83028287">
+            <state line="0" column="8653" selection-start="8641" selection-end="8653" vertical-scroll-proportion="35.96">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="21" selection-start="399" selection-end="399" vertical-scroll-proportion="-2.8461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/users/_form.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="17" selection-start="854" selection-end="854" vertical-scroll-proportion="-9.038462">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rdoc.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/app/rdoc.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="191" column="16" selection-start="3374" selection-end="3374" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/assets/application.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="8653" selection-start="8641" selection-end="8653" vertical-scroll-proportion="0.32984293">
               <folding />
             </state>
           </provider>
@@ -70,9 +102,9 @@
         <option value="$PROJECT_DIR$/app/views/pages/music.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
-        <option value="$PROJECT_DIR$/public/assets/application.css" />
-        <option value="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css" />
+        <option value="$PROJECT_DIR$/public/assets/application.css" />
       </list>
     </option>
   </component>
@@ -256,10 +288,10 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.58785945" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5623003" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.50159746" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25445706" sideWeight="0.41214058" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25445706" sideWeight="0.43769968" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.49520767" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -326,26 +358,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/assets/arrow-89d7ab165aca04c89663debc91a83522.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/arrow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/arrows-406f397754316d9f2c281ede0adaaf71.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/leather_background-72b161140a76ff6e8ac74176222af33a.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/leather_background.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -369,13 +381,6 @@
     <entry file="file://$PROJECT_DIR$/public/assets/T-shirt_sample.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1659" selection-start="1658" selection-end="1659" vertical-scroll-proportion="1.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery-1.9.1.min.js">
@@ -406,16 +411,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="17" selection-start="1549" selection-end="1565" vertical-scroll-proportion="0.0">
+        <state line="58" column="44" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.83028287">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/public/assets/application-358c2d8707bf6fc73c1178c6573d969a.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="23" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.83028287">
+        <state line="0" column="8653" selection-start="8641" selection-end="8653" vertical-scroll-proportion="35.96">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="1" selection-start="1639" selection-end="1639" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="399" selection-end="399" vertical-scroll-proportion="-2.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="17" selection-start="854" selection-end="854" vertical-scroll-proportion="-9.038462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/app/rdoc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="16" selection-start="3374" selection-end="3374" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="8653" selection-start="8641" selection-end="8653" vertical-scroll-proportion="0.32984293">
           <folding />
         </state>
       </provider>

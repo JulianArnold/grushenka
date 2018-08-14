@@ -48,7 +48,7 @@
 </nav>
 <footer>
 <hr />
-<p>Copyright &copy; 2013 Jackson Entertainment.  All rights reserved.</p>
+<p>Copyright &copy; 2013<%= ("-" + (Time.now.gmtime.year).to_s) if (Time.now.gmtime.year > 2013) %> Jackson Entertainment.  All rights reserved.</p>
 <hr />
 </footer>
 </body>

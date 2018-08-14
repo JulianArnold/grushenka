@@ -1,34 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1531604954">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="Rails grushenka: test" uuid="f78a2b52-3cf7-4c0f-837c-e7ee52b5f51a">
-      <driver-ref>sqlite.xerial</driver-ref>
+      <driver-ref>67ac6490-1af6-459d-9d8b-579dcc69ac89</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\PROJECT2\grushenka\db\test.sqlite3</jdbc-url>
-      <libraries>
-        <library>
-          <url>file://$USER_HOME$/.RubyMine40/config/jdbc-drivers/xerial-sqlite-license.txt</url>
-        </library>
-        <library>
-          <url>file://$USER_HOME$/.RubyMine40/config/jdbc-drivers/sqlite-jdbc-3.7.2.jar</url>
-        </library>
-      </libraries>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/test.sqlite3</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="Rails grushenka: development" uuid="93cf226b-be38-4724-857d-8f669a33cd40">
-      <driver-ref>sqlite.xerial</driver-ref>
+      <driver-ref>67ac6490-1af6-459d-9d8b-579dcc69ac89</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\PROJECT2\grushenka\db\development.sqlite3</jdbc-url>
-      <libraries>
-        <library>
-          <url>file://$USER_HOME$/.RubyMine40/config/jdbc-drivers/xerial-sqlite-license.txt</url>
-        </library>
-        <library>
-          <url>file://$USER_HOME$/.RubyMine40/config/jdbc-drivers/sqlite-jdbc-3.7.2.jar</url>
-        </library>
-      </libraries>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="Rails grushenka: development" uuid="cb7db320-fa3e-44e4-b77e-3db1238ab2ac">
-      <driver-ref>sqlite.xerial</driver-ref>
+      <driver-ref>67ac6490-1af6-459d-9d8b-579dcc69ac89</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\PROJECT2\grushenka\db\development.sqlite3</jdbc-url>
       <libraries>
@@ -41,7 +25,7 @@
       </libraries>
     </data-source>
     <data-source source="LOCAL" name="Rails grushenka: test" uuid="83a06eeb-f071-456f-bfd1-be29b2af4ddd">
-      <driver-ref>sqlite.xerial</driver-ref>
+      <driver-ref>67ac6490-1af6-459d-9d8b-579dcc69ac89</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\PROJECT2\grushenka\db\test.sqlite3</jdbc-url>
       <libraries>
@@ -55,4 +39,3 @@
     </data-source>
   </component>
 </project>
-
